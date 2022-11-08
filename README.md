@@ -37,6 +37,11 @@ Mesh simplification which removes vertices and thus information:
 
 ![My Image](images/simple.png)
 
+Mesh cropping which also removes vertices:
+
+![My Image](images/crop.png)
+
+
 
 
 
