@@ -1,6 +1,6 @@
 # York-Steganography-Dissertation
 
-This project was about hiding information into 3-dimensional shapes in a process called 3D steganography.
+This project was about hiding information into three dimensional shapes in a process called 3D steganography.
 
 There are many ways to do this but i based my version mainly off this paper:
 
